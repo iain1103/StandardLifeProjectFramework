@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="automationTestCases.Add_An_App_Check_Links_Firefox_Administrator">
+      <class name="automationTestCases.Breaking_News_Add_New_Item_Invalid_Details_Chrome_Administrator">
         <methods>
           <include name="beforeMethod"/>
           <include name="main"/>
         </methods>
-      </class> <!-- automationTestCases.Add_An_App_Check_Links_Firefox_Administrator -->
+      </class> <!-- automationTestCases.Breaking_News_Add_New_Item_Invalid_Details_Chrome_Administrator -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
